@@ -1,2 +1,1 @@
-# alx-low_level_programming
-My first repository on low-level programming as a ALX full-stack engineer 
+The projects is about conditional statements if, else, while...
