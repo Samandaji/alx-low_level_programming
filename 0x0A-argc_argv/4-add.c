@@ -3,7 +3,7 @@
 #include <ctype.h>
 /**
  * main - adds positive numbers
- * @args: command line argument
+ * @argc: command line argument
  * @argv: Vector array
  * Return: always 0
  */
@@ -17,7 +17,8 @@ int main(int argc, char *argv[])
 		{
 			if (!isdigit(argv[i][j]))
 			{
-				printf("error\n");return (1);
+				printf("error\n");
+				return (1);
 			}
 		}
 		add += atoi(argv[i]);
