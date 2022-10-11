@@ -1,5 +1,8 @@
 #include <stddef.h>
+<<<<<<< HEAD
 
+=======
+>>>>>>> c50b9ca (dog.h)
 #ifndef DOG_H
 #define DOG_H
 /**
