@@ -1,7 +1,7 @@
 /**
  * add - addition
  * @a: number
- * @b: nuber
+ * @b: number
  * Return: result
  */
 int add(int a, int b)
@@ -11,7 +11,7 @@ int add(int a, int b)
 /**
  * sub - addition
  * @a: number
- * @b: nuber
+ * @b: number
  * Return: result
  */
 int sub(int a, int b)
@@ -21,7 +21,7 @@ int sub(int a, int b)
 /**
  * mul - addition
  * @a: number
- * @b: nuber
+ * @b: number
  * Return: result
  */
 int mul(int a, int b)
@@ -31,7 +31,7 @@ int mul(int a, int b)
 /**
  * div - addition
  * @a: number
- * @b: nuber
+ * @b: number
  * Return: result
  */
 int div(int a, int b)
@@ -41,7 +41,7 @@ int div(int a, int b)
 /**
  * mod - addition
  * @a: number
- * @b: nuber
+ * @b: number
  * Return: result
  */
 int mod(int a, int b)
